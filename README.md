@@ -231,8 +231,8 @@ The system supports:
 
 Images show data acquired in a 8hr Test from Accelerometer and Gyroscope:
 <p align="center">
-  <img src="assets/screenshots/Prueba_8h_Besch.png" width="40%">
-  <img src="assets/screenshots/Prueba_8h_Gyro.png" width="40%">
+  <img src="results/Prueba_8h_Besch.png" width="40%">
+  <img src="results/Prueba_8h_Gyro.png" width="40%">
 </p>
 
 ---
