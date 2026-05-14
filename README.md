@@ -13,7 +13,7 @@ The wearable prototype captures inertial data from an integrated accelerometer a
 # System Architecture
 
 <p align="center">
-  <img src="assets/diagrams/Elektrische_Schnittstelle.jpg" width="30%">
+  <img src="assets/diagramms/Elektrische_Schnittstelle.jpg" width="30%">
 </p>
 
 ---
@@ -109,8 +109,11 @@ Wearable-Motion-Analysis-System/
 │
 ├── assets/
 │   ├── screenshots/
-│   ├── diagrams/
+│   ├── diagramms/
 │   └── images/
+│
+├── results/
+│   └── test results as image ".png"
 │
 └── README.md
 ```
