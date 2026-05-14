@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MA_BMT_DV</string>
+    <string name="scan_xiao">Scannen</string>
+    <string name="connection_status">Verbindungsstatus</string>
+    <string name="start_capture">Start</string>
+    <string name="connect_btn">Verbinden</string>
+    <string name="init_value">0.000</string>
+
+    <string name="accelerometer">Beschleunigungsmesser [g]:</string>
+    <string name="accel_x">Ax</string>
+    <string name="accel_y">Ay</string>
+    <string name="accel_z">Az</string>
+
+    <string name="gyroscope">Gyroskop [°/s]:</string>
+    <string name="gyro_x">Gx</string>
+    <string name="gyro_y">Gy</string>
+    <string name="gyro_z">Gz</string>
+</resources>
